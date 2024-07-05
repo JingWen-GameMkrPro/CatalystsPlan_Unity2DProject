@@ -23,7 +23,7 @@ public class GameTipSystemController : MonoBehaviour
 
     private void Start()
     {
-        ShowTip("Hello World!", continueSecond, true);
+        
         
     }
 
