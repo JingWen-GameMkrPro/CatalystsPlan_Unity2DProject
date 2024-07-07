@@ -34,7 +34,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -55,7 +55,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -76,7 +76,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -178,7 +178,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -210,7 +210,7 @@ AnimationClip:
     - time: 0.9166667
       value: {fileID: -1351543381, guid: 5bd6b8cb77167654e873e8fb175ac351, type: 3}
     attribute: m_Sprite
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 2
@@ -255,7 +255,7 @@ AnimationClip:
     - time: 1.75
       value: {fileID: 1485582510, guid: 5bd6b8cb77167654e873e8fb175ac351, type: 3}
     attribute: m_Sprite
-    path: Effect_Attack/Effect7
+    path: Effect_Attack/LightningEffect/LightningEffect2
     classID: 212
     script: {fileID: 0}
     flags: 2
@@ -267,7 +267,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1602798325
+      path: 2769317566
       attribute: 304273561
       script: {fileID: 0}
       typeID: 212
@@ -276,7 +276,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1602798325
+      path: 2769317566
       attribute: 0
       script: {fileID: 0}
       typeID: 212
@@ -285,7 +285,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 680522339
+      path: 1008287492
       attribute: 0
       script: {fileID: 0}
       typeID: 212
@@ -294,7 +294,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1602798325
+      path: 2769317566
       attribute: 2526845255
       script: {fileID: 0}
       typeID: 212
@@ -303,7 +303,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1602798325
+      path: 2769317566
       attribute: 4215373228
       script: {fileID: 0}
       typeID: 212
@@ -312,7 +312,7 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1602798325
+      path: 2769317566
       attribute: 2334886179
       script: {fileID: 0}
       typeID: 212
@@ -390,7 +390,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.r
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -411,7 +411,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.g
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -432,7 +432,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.b
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 0
@@ -534,7 +534,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Color.a
-    path: Effect_Attack/Effect6
+    path: Effect_Attack/LightningEffect/LightningEffect1
     classID: 212
     script: {fileID: 0}
     flags: 0
